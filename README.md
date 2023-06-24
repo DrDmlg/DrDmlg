@@ -2,9 +2,6 @@
   <img src="https://github.com/DrDmlg/DrDmlg/blob/main/cut5.mov">
 </p>
 
-https://github.com/DrDmlg/DrDmlg/blob/main/cut.mov
-
-### Hi there 👋
 
 <!--
 **DrDmlg/DrDmlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
