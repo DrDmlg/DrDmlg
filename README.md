@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DrDmlg/DrDmlg/blob/main/cut5.mov">
+  <img src="https://github.com/DrDmlg/DrDmlg/blob/main/banner.mov">
 </p>
 
 
