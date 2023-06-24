@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DrDmlg/DrDmlg/blob/main/cut5.mov" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/DrDmlg/DrDmlg/blob/main/cut5.mov">
 </p>
 
 https://github.com/DrDmlg/DrDmlg/blob/main/cut.mov
