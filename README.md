@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/DrDmlg/DrDmlg/blob/main/cut.mov" alt="Hi, I'm Dmitry>
 </p>
