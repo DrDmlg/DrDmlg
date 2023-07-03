@@ -2,6 +2,8 @@
   <img src="https://github.com/DrDmlg/DrDmlg/blob/main/banner.mov">
 </p>
 
+https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true
+
 
 <!--
 **DrDmlg/DrDmlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
