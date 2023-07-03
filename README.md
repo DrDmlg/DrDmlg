@@ -2,10 +2,19 @@
   <img src="https://github.com/DrDmlg/DrDmlg/blob/main/banner.mov">
 </p>
 
-https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true
 
+
+
+## 📈 GitHub Stats ## 
+
+<!-- Light Mode -->
+<div align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true">
+
+</a>
 
 <!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true" alt="oldSorcerer's github stats"/>
 **DrDmlg/DrDmlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
