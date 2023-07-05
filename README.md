@@ -16,7 +16,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true" alt="DrDmIg's github stats"/>
 </a>
 
-<hr>
+<hr color = "red">
 ##Contacts
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
