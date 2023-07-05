@@ -6,15 +6,14 @@
 <p align="left">
 ## 📈 About Me ## 
 </p>
-<div align="center">
+
 ## 📈 GitHub Stats ## 
 
 <!-- Light Mode -->
 <div align="center">
-<!--<a href="https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true"> -->
-<!--
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true" alt="DrDmIg's github stats"/>
-  -->
+<a href="https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true" alt="DrDmIg's github stats"/>
+
 </a>
 
 
