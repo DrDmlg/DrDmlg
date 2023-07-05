@@ -6,7 +6,7 @@
 <p align="left">
 ## 📈 About Me ## 
 </p>
-
+<div align="center">
 ## 📈 GitHub Stats ## 
 
 <!-- Light Mode -->
