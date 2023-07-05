@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/DrDmlg/DrDmlg/blob/main/banner.mov">
 </p>
+<!-- Ссылка на баннер -->
 
 <p align="left">
 ## 📈 About Me ## 
