@@ -2,7 +2,7 @@
   <img src="https://github.com/DrDmlg/DrDmlg/blob/main/banner.mov">
 </p>
 
-<p align="center">
+<p align="left">
 ## 📈 About Me ## 
 </p>
 
