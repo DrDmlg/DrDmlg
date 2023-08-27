@@ -17,9 +17,9 @@
     &nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"  alt="maven" title="maven" width="50" height="50"/>
     &nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="maven" title="maven" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="hibernate" title="hibernate" width="50" height="50"/>
     &nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="maven" title="maven" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="lombok" title="lombok" width="50" height="50"/>
     &nbsp;
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -38,11 +38,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="50" height="50"/> 
   </a> 
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="linux" title="linux" width="50" height="50"/> 
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" title="git" width="50" height="50"/> 
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" title="linux" width="50" height="50"/> 
+  <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" width="50" height="50"/> 
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="linux" title="linux" width="50" height="50"/> 
+  <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" width="50" height="50"/> 
 </div>
 
 <hr>
