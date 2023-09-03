@@ -2,11 +2,16 @@
 <p align="center"> <img src="https://github.com/DrDmlg/DrDmlg/blob/main/banner.mov"></p>
 
 ### :fire: My Stats:
-<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DrDmlg&theme=codestackr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+<!-- <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true" alt="DrDmIg's github stats"/>
 </a>
 </div>
+-->
 
 <hr>
 
