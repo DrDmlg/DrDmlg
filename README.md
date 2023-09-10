@@ -2,8 +2,7 @@
 <p align="center"> <img src="https://github.com/DrDmlg/DrDmlg/blob/main/banner.mov"></p>
 
 ### :fire: My Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DrDmlg&theme=codestackr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DrDmlg&theme=sunset-gradient&border_radius=5&card_width=1200)](https://git.io/streak-stats)
 
 
 <!-- <div align="center">
