@@ -1,8 +1,15 @@
 <!-- Ссылка на баннер -->
 <p align="center"> <img src="https://github.com/DrDmlg/DrDmlg/blob/main/banner.mov"></p>
 
+### :sunglasses: About Me:
+
+Constantly exploring the latest Java technologies to stay at the forefront of the industry.
+<hr>
+
 ### :fire: My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=DrDmlg&theme=ambient-gradient&border_radius=5&card_width=1200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DrDmlg&theme=ambient-gradient&border_radius=25&card_width=1200)](https://git.io/streak-stats)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
 
 
 <!-- <div align="center">
