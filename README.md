@@ -1,5 +1,6 @@
 <!-- Ссылка на баннер -->
-<p align="center"> <img src="https://github.com/DrDmlg/DrDmlg/blob/main/banner.mov"></p>
+<p align="center"> <img src="https://github.com/DrDmlg/DrDmlg/assets/118211775/f6e07d5f-3dd0-4f22-8938-337493c204bd" width="1200" height="330"></p>
+
 
 ### :sunglasses: About Me:
 
