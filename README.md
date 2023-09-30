@@ -1,7 +1,7 @@
 <!-- Ссылка на баннер -->
-<!-- <p align="center"> <img src="https://github.com/DrDmlg/DrDmlg/assets/118211775/4ef1b250-b796-48f8-88cb-e55b4a5e5922" width="1200" height="330"></p>-->
+ <p align="center"> <img src="https://github.com/DrDmlg/DrDmlg/assets/118211775/4ef1b250-b796-48f8-88cb-e55b4a5e5922" width="1000" height="330"></p>
 
-![ezgif com-video-to-gif](https://github.com/DrDmlg/DrDmlg/assets/118211775/4ef1b250-b796-48f8-88cb-e55b4a5e5922)
+
 
 ### :sunglasses: About Me:
 
