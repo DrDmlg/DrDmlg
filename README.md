@@ -3,7 +3,7 @@
 
 ### :sunglasses: About Me:
 
-Constantly exploring the latest Java technologies to stay at the forefront of the industry.
+Constantly exploring the latest Java technologies to stay at the forefront of the industry!
 <hr>
 
 ### :fire: My Stats:
