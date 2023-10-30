@@ -43,6 +43,8 @@ Constantly exploring the latest Java technologies to stay at the forefront of th
     &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" width="50" height="50"/></code> 
     &nbsp;
+  <code><img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="InteliJ" title="tomcat" width="50" height="50"/></code>
+    &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" width="50" height="50"/></code> 
 </div>
 
