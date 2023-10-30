@@ -47,7 +47,7 @@ Constantly exploring the latest Java technologies to stay at the forefront of th
     &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" width="50" height="50"/></code> 
     &nbsp;
-  <code><img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" width="50" height="50"/></code> 
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" title="Spring" width="50" height="50"/></code>
 </div>
 
 <hr>
