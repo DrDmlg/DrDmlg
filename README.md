@@ -54,7 +54,7 @@ Constantly exploring the latest Java technologies to stay at the forefront of th
 
 ### :email: Contacts:
 <p align='center'>
-   <a href="https://www.linkedin.com/in/dmitry-dorokhov-655b56280/">
+   <a href="https://www.linkedin.com/in/dmitry-dorokhov/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    
