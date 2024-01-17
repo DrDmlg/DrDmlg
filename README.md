@@ -28,6 +28,8 @@
     &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" title="mysql" width="50" height="50"/></code> 
     &nbsp;
+  <code><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" width="50" height="50"/></code> 
+    &nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="50" height="50"/></code> 
     &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" title="git" width="50" height="50"/></code> 
@@ -36,9 +38,17 @@
     &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="tomcat" title="tomcat" width="50" height="50"/></code>
     &nbsp;
-  <code><img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" width="50" height="50"/></code> 
-    &nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" title="Spring" width="50" height="50"/></code>
+    &nbsp;
+  <code><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" width="50" height="50"/></code>
+    &nbsp;
+  <code><img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger" width="50" height="50"/></code>
+    &nbsp;
+  <code><img src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" alt="Liquibase" title="Liquibase" width="50" height="50"/></code>
+   &nbsp;
+  <code><img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit" width="50" height="50"/></code>
+  &nbsp;
+  <code><img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" alt="Mockito" title="Mockito" width="50" height="50"/></code>
 </div>
 
 <hr>
