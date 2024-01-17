@@ -16,6 +16,8 @@
 <div align = "center"> 
   <code><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" title="java"  width="50" height="50"/></code>
     &nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" title="Spring" width="50" height="50"/></code>
+    &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"  alt="maven" title="maven" width="50" height="50"/></code>
     &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="hibernate" title="hibernate" width="50" height="50"/></code>
@@ -36,9 +38,7 @@
     &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" width="50" height="50"/></code> 
     &nbsp;
-  <code><img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="tomcat" title="tomcat" width="50" height="50"/></code>
-    &nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" title="Spring" width="50" height="50"/></code>
+  <code><img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat" width="50" height="50"/></code>
     &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" width="50" height="50"/></code>
     &nbsp;
@@ -47,10 +47,9 @@
   <code><img src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" alt="Liquibase" title="Liquibase" width="50" height="50"/></code>
    &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit" width="50" height="50"/></code>
-  &nbsp;
+   &nbsp;
   <code><img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" alt="Mockito" title="Mockito" width="50" height="50"/></code>
 </div>
-
 <hr>
 
 ### :email: Contacts:
