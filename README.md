@@ -1,24 +1,15 @@
-<!-- Ссылка на баннер -->
+<!-- Link to the banner -->
  <p align="center"> <img src="https://github.com/DrDmlg/DrDmlg/assets/118211775/4ef1b250-b796-48f8-88cb-e55b4a5e5922" width="1000" height="330"></p>
+<hr>
 
 ### :sunglasses: About Me:
-
-Constantly exploring the latest Java technologies to stay at the forefront of the industry!
+<p align="center">
+  <samp>Constantly exploring the latest Java technologies to stay at the forefront of the industry!</samp>
+</p>
 <hr>
 
 ### :fire: My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=DrDmlg&theme=ambient-gradient&border_radius=25&card_width=1200)](https://git.io/streak-stats)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
-
-
-<!-- <div align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DrDmlg&show_icons=true&include_all_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true" alt="DrDmIg's github stats"/>
-</a>
-</div>
--->
-
 <hr>
 
 ### :hammer_and_pick: Languages and Tools:
@@ -65,10 +56,3 @@ Constantly exploring the latest Java technologies to stay at the forefront of th
    <a href="https://t.me/sambo70">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
    </a>
-    
-<!-- For example -->
-<!--
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="docker" width="50" height="50"/>
-  </a>
--->
