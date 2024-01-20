@@ -6,6 +6,10 @@
 <p align="center">
   <samp>Constantly exploring the latest Java technologies to stay at the forefront of the industry!</samp>
 </p>
+   &nbsp;
+ <p align="center">
+ <img src="https://www.codewars.com/users/NO_RESULTS%3F/badges/large">
+</p>
 <hr>
 
 ### :fire: My Stats:
