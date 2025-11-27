@@ -4,7 +4,7 @@
 
 ### :sunglasses: About Me:
 <p align="center">
-  <samp>Constantly exploring the latest Java technologies to stay at the forefront of the industry!</samp>
+  <samp>My motivation is fueled by my passion, purpose, and unwavering belief in myself</samp>
 </p>
    &nbsp;
  <p align="center">
